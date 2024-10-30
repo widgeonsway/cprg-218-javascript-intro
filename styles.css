@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(45, 43, 43);
+    color:#333333;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
+#secret {
+    display: block;
+}
+
+#lights_off {
+    display: none;
+  
+}
